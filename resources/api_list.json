@@ -1,0 +1,7 @@
+{
+    "Weather API":
+    {
+        "Description": "This API can be used to get information about the weather at a particular place",
+        "Sample cURL Request": ""
+    }
+}
